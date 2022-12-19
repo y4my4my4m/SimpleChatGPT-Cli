@@ -2,13 +2,11 @@
 
 ## How to run
 
-1. Add this in your ~/.bashrc or else:
+1. Add this in your ~/.bashrc or else: `alias chatgpt = 'env OPENAI_API_KEY=secretkey python /full/path/to/chatgpt.py'`
 
-`alias chatgpt = 'env OPENAI_API_KEY=secretkey python /full/path/to/chatgpt.py'`
+2. Reload your source
 
-1. Reload your source
-
-2. Execute `$ chatgpt`
+3. Execute `$ chatgpt`
 
 ### PS
 
